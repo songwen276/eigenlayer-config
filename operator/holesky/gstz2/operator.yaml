@@ -1,0 +1,11 @@
+operator:
+    address: 0xD211C94B24F095d124d6D8C3A19c971eC478586D
+    earnings_receiver_address: 0xD211C94B24F095d124d6D8C3A19c971eC478586D
+    delegation_approver_address: "0x0000000000000000000000000000000000000000"
+    staker_opt_out_window_blocks: 0
+    metadata_url: "https://raw.githubusercontent.com/songwen276/eigenlayer-config/main/operator/holesky/gstz2/metadata.json"
+el_delegation_manager_address: 0xA44151489861Fe9e3055d95adC98FbD462B948e7
+eth_rpc_url: http://65.109.158.181:8545
+private_key_store_path: /avs/eigenlayer/operator/gstz2/gstz2.ecdsa.key.json
+signer_type: local_keystore
+chain_id: 17000
